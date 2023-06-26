@@ -1,5 +1,5 @@
 // Interfaz Mascota
-interface Mascota {
+public interface IMascota {
     String obtenerNombre();
 
     void ponerNombre(String nombre);
